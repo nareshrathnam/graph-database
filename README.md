@@ -15,6 +15,6 @@ https://youtu.be/8jNPelugC2s
 https://youtu.be/T6L9EoBy8Zk
 https://github.com/harblaith7/Neo4j-Crash-Course/blob/main/01-initial-data.cypher
 
-Future:
+Future Idea:
 https://my-neo4j-movies-app.herokuapp.com/
 
